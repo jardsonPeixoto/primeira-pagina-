@@ -1,0 +1,50 @@
+
+.corpo{
+background: linear-gradient(#fbec5d, #ffd700);
+}
+.corpo h1{
+text-align: center;
+padding: 20px;
+font-family: Cursive;
+}
+
+.corpo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    width: 30%;
+}
+.corpo h3{
+    background-color: white;
+    display: inline;
+    padding: 3px 0 !important;
+    position: relative;
+}
+
+.Ingredientes{
+    text-align: center;
+    padding: 10px;
+    font-family: Cursive;
+}
+.Itens{
+    font-size: 20px;
+    line-height: 1.9;
+    font-family: cursive;
+}
+
+.Preparo{
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+.mododefazer{
+    font-size: 20px;
+    line-height: 2.1;
+    font-family: cursive;
+}
+
+.video {
+    margin: 2em auto;
+    width: 600px;
+}
